@@ -1,4 +1,4 @@
-<!-- Zphisher -->
+<!-- Dharick -->
 
 <p align="center">
   <img src=".imgs/logo.png">
